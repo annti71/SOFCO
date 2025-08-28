@@ -12,7 +12,7 @@ R-file **Assigning_office_worker_proxy.R** in Program folder contains code
 for assigning a proxy for office workers based on open-ended responses regarding 
 occupation in Swedish questionnaires. This relies on the Swedish Standard 
 Classification of Occupations 2012 (SSYK12). The data for SSYK12 is available on 
-[Zenedo](https://zenodo.org/uploads/13848204). The R-code can be used to assign 
+[Zenedo](https://zenodo.org/records/16925263). The R-code can be used to assign 
 a proxy for office workers based on open-ended responses regarding occupation in 
 other languages, provided that an occupation classification in that language is available.
 
